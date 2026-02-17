@@ -1,14 +1,14 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: mediumvioletred;
-    background-color: ivory;
+    background-color: azure;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 header{
-    background-color: lightgrey;
-    color: palevioletred;
+    background-color: darkgray;
+    color: crimson;
     padding: 20px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ header h1{
 }
 
 nav a{
-    color: rgb(197, 168, 129);
+    color: darkorchid;
     text-decoration: none;
     margin: 0 10px;
 }
@@ -54,7 +54,7 @@ p {
 }
 
 a {
-    color: #4CAF50;
+    color: #8ecc90;
     text-decoration: none;
 }
 
@@ -63,11 +63,11 @@ a:hover {
 }
 
 img {
-    border: 5px solid #4CAF50;
+    border: 5px solid #e671b9;
     border-radius: 10px;
 }
 
 main a[href="bolengntapu9@gmail.com"]{
-    color: #ff5722;
+    color: violet;
     font-weight: bold;
 }
