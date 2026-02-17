@@ -19,7 +19,7 @@ header h1{
 }
 
 nav a{
-    color:rgb(226, 0, 143)
+    color:rgb(226, 0, 143);
     text-decoration: none;
     margin: 0 10px;
 }
